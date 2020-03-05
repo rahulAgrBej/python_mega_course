@@ -1,2 +1,2 @@
 import datetime
-print(datetime.datetime.now())
+print("This is the date right now\n", datetime.datetime.now())
